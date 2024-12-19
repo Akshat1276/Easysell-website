@@ -502,7 +502,7 @@ nav {
 
 .ans{
     max-height: 0px;
-    width: 57%;
+    width: 64.5%;
     overflow: hidden;
     transition: max-height 0.3s ease-in-out;
     flex-grow: 1;
@@ -511,13 +511,14 @@ nav {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background: #155937;
+    background: #353936;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-left: 0.77em;
+    margin-left: 1.03em;
     border-radius: 10px;
-    padding-right: 40px;
-    padding-left: 32px;
+    padding-right: 23px;
+    padding-left: 23px;
+    margin-left: 1.03em;
     margin-right: 210px;
 }
 
